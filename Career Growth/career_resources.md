@@ -1,0 +1,2 @@
+# Data Career Path and Growth
+Advice on navigating the data career landscape, including job roles, skill development, and industry trends. Insights into what it takes to grow from an entry-level position to a leadership role.
