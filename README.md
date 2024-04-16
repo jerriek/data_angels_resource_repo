@@ -1,5 +1,4 @@
 
-```markdown
 # Data Professional Resource Guide
 
 ## About This Guide
@@ -93,4 +92,3 @@ Maintainers of the repository will review your pull request. After the review, y
 Your feedback is important to help us improve this resource guide. If you have suggestions or feedback, please open an issue in this repository, and we will look into it promptly.
 
 Thank you for contributing to the Data Angels Resource Guide!
-```
