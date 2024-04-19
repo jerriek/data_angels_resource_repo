@@ -1,5 +1,5 @@
 
-# Data Professional Resource Guide
+# Data Angels Resource Guide
 
 ## About This Guide
 
