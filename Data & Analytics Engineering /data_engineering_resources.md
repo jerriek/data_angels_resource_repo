@@ -20,3 +20,19 @@ Copy the template below and fill it out
 - **Who Can Benefit Most From This:** _[Specific audience or user group]_
 - **Short Description:** _[Brief overview of the content and purpose of the resource]_
 - **Experience With the Resource:** _[Personal insights, usefulness, applicability, and any other relevant information from users who have interacted with this resource]_
+
+
+
+# List of Resources
+
+### 1. [Resources for Analytics Engineers](https://github.com/flpezet/analytics-readings)
+- **Type of Resource:** GitHub Repository
+- **Who Can Benefit Most From This:** Anyone interested in a range of analytics engineering resources 
+- **Short Description:** A repos with a list of many resources from across the web covering all kinds of topics. 
+- **Experience With the Resource:** I found this very useful when I was first learning about analytics engineering. It is a great way to learn about concepts. 
+
+### 2. [An extensive list of dbt resources](https://github.com/Hiflylabs/awesome-dbt/blob/main/README.md)
+- **Type of Resource:** GitHub Repository
+- **Who Can Benefit Most From This:** Anyone interested in all things dbt
+- **Short Description:** A repos with a list of many resources from across the web covering all things dbt
+- **Experience With the Resource:** Super helpful list and a really good reference guide. I have this bookmarked and periodically go there to find reliable information about dbt. 
