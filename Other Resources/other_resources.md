@@ -13,8 +13,7 @@ Provide as much information as possible using the categories below for guidance.
 
 5. **Experience With the Resource**: This is where people can share their own takes on the resource. It’s about what worked, what didn’t, and why someone might find it useful. This real talk can be super helpful for others looking to figure out if it’s worth their time.
 
-Copy the template below and fill it out 
-
+Copy the template below and fill it out. For links set it up as [Name of Resource](link to resource) and for attachments or templates you can upload them to the folder. 
 ### 1. Name of Resource
 - **Type of Resource:** _[Book, Blog, Course, Panel, etc.]_
 - **Who Can Benefit Most From This:** _[Specific audience or user group]_
