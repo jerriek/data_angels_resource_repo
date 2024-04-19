@@ -1,0 +1,2 @@
+# Professional Development and Graduate School for Data Related Field
+Information about pursuing certificates, bootcamps, online programs, or graduate studies in data-related fields, including choosing the right program, application tips, and the benefits of advanced education in data science.
