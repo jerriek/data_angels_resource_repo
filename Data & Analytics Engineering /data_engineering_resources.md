@@ -1,0 +1,2 @@
+# Data & Analytics Engineering Concepts and Foundations
+Essential knowledge and tools for building robust data pipelines and architectures. Learn about databases, big data technologies, ETL processes, and data warehousing.

@@ -1,5 +1,5 @@
 
-# Data Angels Resource Guide
+# Data Professional Resource Guide
 
 ## About This Guide
 
@@ -10,7 +10,7 @@ Welcome to the Data Angels Resource Guide! This repository is designed to empowe
 ### Data Analytics
 Resources and tools to help you understand how to analyze data effectively. This includes statistical methods, visualization techniques, and case studies showcasing real-world analytics.
 
-### Data Engineering and Foundations
+### Data & Analytics Engineering Foundations
 Essential knowledge and tools for building robust data pipelines and architectures. Learn about databases, big data technologies, ETL processes, and data warehousing.
 
 ### Experimentation
@@ -22,8 +22,8 @@ Tutorials, courses, and projects related to machine learning and predictive mode
 ### Data Career Path and Growth
 Advice on navigating the data career landscape, including job roles, skill development, and industry trends. Insights into what it takes to grow from an entry-level position to a leadership role.
 
-### Graduate School for Data Related Field
-Information about pursuing graduate studies in data-related fields, including choosing the right program, application tips, and the benefits of advanced education in data science.
+### Professional Development and Graduate School for Data Related Field
+Information about pursuing certificates, bootcamps, online programs, or graduate studies in data-related fields, including choosing the right program, application tips, and the benefits of advanced education in data science.
 
 ## Contributing to the Repository
 
@@ -92,3 +92,4 @@ Maintainers of the repository will review your pull request. After the review, y
 Your feedback is important to help us improve this resource guide. If you have suggestions or feedback, please open an issue in this repository, and we will look into it promptly.
 
 Thank you for contributing to the Data Angels Resource Guide!
+```
